@@ -1,4 +1,3 @@
-# main
 <HTML>
 
 <HEAD>
@@ -21,7 +20,7 @@
           <LI TYPE="cicle">프로그래밍 능력뿐만 아니라 디자인능력, 교수님과의 소통능력 등 여러 능력을 키울 수 있는 일거양득 수업 <BR> 
      </op>
      <LINK="blue VLINK="green" ALINK="gray">
-     <A HREF="https://www.naver.com/">그래서 동호는 누구인가?</A> <BR> 
-     <A HREF="http://www.ehan.co.kr">동호의 작품들이 궁금하다고? 그럼 눌러!</A> <BR> 
+     <A HREF="https://2ehdgh17.github.io/dong-ho/">그래서 동호는 누구인가?</A> <BR> 
+     <A HREF="https://2ehdgh17.github.io/creat/">동호의 작품들이 궁금하다고? 그럼 눌러!</A> <BR> 
 </BODY>
 </HTML>
